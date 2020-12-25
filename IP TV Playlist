@@ -21,8 +21,6 @@ http://plusbox.tv:8080/Channel24/index.m3u8?token=fba03bb2be4b96a8076811d1d6a172
 http://plusbox.tv:8080/ChannelI/index.m3u8?token=495cf26270168487ed032559925a2f56f4f933f4-830cdb6733ea8b048ddd5ce38f2fd8af-1608885029-1608874229
 #EXTINF:-1,DBC News
 http://plusbox.tv:8080/DBCNews/index.m3u8?token=7cc7d79e46cda2c92516e6f62116e286214ca51c-72881b5e409d8f1383b1ffe9f1e045d7-1608885051-1608874251
-#EXTINF:-1,Ekattor TV
-http://plusbox.tv:8080/EkattorTV/index.m3u8?token=8db99fe1fb631704f433cc58b7d4e2c303100942-6286a827924d63372f4f4ca4998639ad-1608886522-1608875722
 #EXTINF:-1, Ananda TV
 http://plusbox.tv:8080/AnandaTv/index.m3u8?token=30a896a4679a5180655255c578f1e7097ed5fe74-62e0fcfe63e5ac6ca533965528fefab0-1608886577-1608875777
 #EXTINF:-1,GTV
@@ -90,12 +88,6 @@ https://rhridoy136.shortcm.li/atnmusic.m3u8
 https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Music" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Bangla Channels",RTV Music
 https://rhridoy136.shortcm.li/rtvmusic.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Vision HD" tvg-logo="https://en.wikipedia.org/wiki/Banglavision#/media/File:Banglavision.PNG" group-title="Bangla Channels",NTV
-http://103.205.133.48/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Vision HD" tvg-logo="https://en.wikipedia.org/wiki/Banglavision#/media/File:Banglavision.PNG" group-title="Bangla Channels",Bangla Vision HD
-https://rb.gy/ga01lf
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel I HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Bangla Channels",Channel I HD
-https://rb.gy/o1wo15
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATn" tvg-logo="none" group-title="Bangla Channels",Atn Bangla
 https://rhridoy136.shortcm.li/atnbangla.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATn" tvg-logo="none" group-title="Bangla Channels",Bangla Tv
@@ -132,8 +124,6 @@ https://rhridoy136.shortcm.li/channeli.m3u8
 https://rhridoy136.shortcm.li/dbcnews.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Bangla Channels",Desh TV
 https://rhridoy136.shortcm.li/deshtv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangla Channels",Ekattor TV
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKUSHEY TV HD" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="Bangla Channels",EKUSHEY TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" group-title="Bangla Channels",Independent
@@ -2160,8 +2150,6 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.
 
 #EXTINF:-1 group-title="BDIX Collection 2",Masranga HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.m3u8
-#EXTINF:-1 group-title="BDIX Collection 2",Ekattor Tv HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.m3u8
 #EXTINF:-1 group-title="BDIX Collection 2",Nagorik TV HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.m3u8
 #EXTINF:-1 group-title="BDIX Collection 2",Channel I HD
