@@ -24,11 +24,11 @@ http://plusbox.tv:8080/DBCNews/index.m3u8?token=7cc7d79e46cda2c92516e6f62116e286
 #EXTINF:-1,Ekattor TV
 echo "Getting token response and extracting token"    
 def token = sh (returnStdout: true, script: """
-    curl -S -i -k -X POST http://plusbox.tv:8080/EkattorTV/getToken -H \"Content-Type: application/json\" -H \"Accept: application/json\" -d @requestFile.json | grep token | cut -d, -f1 | cut -d\\" -f4
+    curl -S -i -k -X POST http://plusbox.tv:8080/EkattorTV/getToken -H \"Content-Type: application/json\" -H \"Accept: mediaplayer/json\" -d @requestFile.json | grep token | cut -d, -f1 | cut -d\\" -f4
 """).split()
 echo "Token : ${token[-1]}"       
 echo "Making calls using token..."       
-curl -S -i -k  -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer ${token[-1]}" http://plusbox.tv:8080/EkattorTV/api/resources 
+curl -S -i -k  -H "Accept: application/json" -H "Content-Type: mediaplayer" -H "Authorization: Bearer ${token[-1]}" http://plusbox.tv:8080/EkattorTV/api/resources 
 #EXTINF:-1,
 
 #EXTINF:-1,
