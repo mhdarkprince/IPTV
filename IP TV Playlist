@@ -22,23 +22,15 @@ http://plusbox.tv:8080/ChannelI/index.m3u8?token=495cf26270168487ed032559925a2f5
 #EXTINF:-1,DBC News
 http://plusbox.tv:8080/DBCNews/index.m3u8?token=7cc7d79e46cda2c92516e6f62116e286214ca51c-72881b5e409d8f1383b1ffe9f1e045d7-1608885051-1608874251
 #EXTINF:-1,Ekattor TV
-echo "Getting token response and extracting token"    
-def token = sh (returnStdout: true, script: """
-    curl -S -i -k -X POST http://plusbox.tv:8080/EkattorTV/getToken -H \"Content-Type: application/json\" -H \"Accept: mediaplayer/json\" -d @requestFile.json | grep token | cut -d, -f1 | cut -d\\" -f4
-""").split()
-echo "Token : ${token[-1]}"       
-echo "Making calls using token..."       
-curl -S -i -k  -H "Accept: application/json" -H "Content-Type: mediaplayer" -H "Authorization: Bearer ${token[-1]}" http://plusbox.tv:8080/EkattorTV/api/resources 
+http://plusbox.tv:8080/EkattorTV/index.m3u8?token=8db99fe1fb631704f433cc58b7d4e2c303100942-6286a827924d63372f4f4ca4998639ad-1608886522-1608875722
+#EXTINF:-1, Ananda TV
+http://plusbox.tv:8080/AnandaTv/index.m3u8?token=30a896a4679a5180655255c578f1e7097ed5fe74-62e0fcfe63e5ac6ca533965528fefab0-1608886577-1608875777
+#EXTINF:-1,GTV
+http://plusbox.tv:8080/GaziTV/index.m3u8?token=6e2ad9fffbeb91da6e0bc79fe027a0d57787098f-80420745864f1f247af3facf5aa5a717-1608886606-1608875806
+#EXTINF:-1,Independent TV
+http://plusbox.tv:8080/IndependentTV/index.m3u8?token=c68b56d5cec6a9bd1dfc5cde77fdcd49de590174-087f8973aed607a6db1408cb24d4b94e-1608886632-1608875832
 #EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+http://plusbox.tv:8080/MohonaTV/index.m3u8?token=c18b7fbb5ca92be93bbf8eca50d9b11af990a269-0632103696538d9d9c86a99fb020ca6b-1608886678-1608875878
 #EXTINF:-1,
 
 #EXTINF:-1,
