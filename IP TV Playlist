@@ -29,12 +29,12 @@ http://plusbox.tv:8080/AnandaTv/index.m3u8?token=30a896a4679a5180655255c578f1e70
 http://plusbox.tv:8080/GaziTV/index.m3u8?token=6e2ad9fffbeb91da6e0bc79fe027a0d57787098f-80420745864f1f247af3facf5aa5a717-1608886606-1608875806
 #EXTINF:-1,Independent TV
 http://plusbox.tv:8080/IndependentTV/index.m3u8?token=c68b56d5cec6a9bd1dfc5cde77fdcd49de590174-087f8973aed607a6db1408cb24d4b94e-1608886632-1608875832
-#EXTINF:-1,
+#EXTINF:-1, Mohona TV
 http://plusbox.tv:8080/MohonaTV/index.m3u8?token=c18b7fbb5ca92be93bbf8eca50d9b11af990a269-0632103696538d9d9c86a99fb020ca6b-1608886678-1608875878
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,My TV
+http://plusbox.tv:8080/MyTV/index.m3u8?token=9f7b1d89833813273ea4b8bd969990617bb30875-cb9cff80cbd5991986b5deaa4c3da139-1608886768-1608875968
+News 24
+http://plusbox.tv:8080/News24/index.m3u8?token=cb051ec99521454d787b751809002dc6ca3f0a9d-f647cf8a1841bb828bbd88a280135688-1608886797-1608875997
 #EXTINF:-1,
 
 #EXTINF:-1,
