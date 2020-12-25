@@ -22,7 +22,7 @@ http://plusbox.tv:8080/ChannelI/index.m3u8?token=495cf26270168487ed032559925a2f5
 #EXTINF:-1,DBC News
 http://plusbox.tv:8080/DBCNews/index.m3u8?token=7cc7d79e46cda2c92516e6f62116e286214ca51c-72881b5e409d8f1383b1ffe9f1e045d7-1608885051-1608874251
 #EXTINF:-1,Ekattor TV
-http://plusbox.tv:8080/EkattorTV/index.m3u8
+http://plusbox.tv:8080/EkattorTV/index.m3u8?
 #EXTINF:-1,
 
 #EXTINF:-1,
