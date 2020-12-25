@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Sangsad TV
-http://plusbox.tv:8080/SangsadTV/index.m3u8?token=9a960f588a27a44f5424d717e5adbcb0730acaef-8569fc5620448e6fe2f5ee65a223e5aa-1608881381-1608870581
+http://plusbox.tv:8080/SangsadTV/index.m3u8?token=7223b13bd4a0efe75d42ba4ce203846deacfab14-cef151f460298094a074e11da0de7a90-1608881533-1608870733
 #EXTINF:-1, BTV World
 http://plusbox.tv:8080/BTVWorld/index.m3u8?token=7223b13bd4a0efe75d42ba4ce203846deacfab14-cef151f460298094a074e11da0de7a90-1608881533-1608870733
