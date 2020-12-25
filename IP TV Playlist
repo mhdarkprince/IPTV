@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,Masranga HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.m3u8
 #EXTINF:-1,Nagorik TV HD
@@ -80,8 +81,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.m3u8
 #EXTINF:-1,TLC
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.m3u8
-#EXTINF:-1,Life Style
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.m3u8
 #EXTINF:-1,Sony TEN 1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.m3u8
 #EXTINF:-1,Sports Channel
@@ -92,8 +91,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.m3u8
 #EXTINF:-1,Star Sports Select HD 2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.m3u8
-#EXTINF:-1,DSports
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.m3u8
 #EXTINF:-1,BBC News
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.m3u8
 #EXTINF:-1,Al Jazeera
@@ -134,4 +131,31 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/84.m3u8
 #EXTINF:-1,DW News
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/101.m3u8
+#EXTINF:-1, ATN News
+https://rhridoy136.shortcm.li/atnnews.m3u8
+#EXTINF:-1, Boishakhi
+https://rhridoy136.shortcm.li/boishakhitv.m3u8
+#EXTINF:-1, CHANNEL 24
+https://rhridoy136.shortcm.li/channel24.m3u8
+#EXTINF:-1, Channel 9
+https://rhridoy136.shortcm.li/channel9.m3u8
+#EXTINF:-1, DBC News
+https://rhridoy136.shortcm.li/dbcnews.m3u8
+#EXTINF:-1, Desh TV
+https://rhridoy136.shortcm.li/deshtv.m3u8
+#EXTINF:-1, MOHONA TV
+https://rhridoy136.shortcm.li/mohonatv.m3u8
+#EXTINF:-1, News 24
+https://rhridoy136.shortcm.li/news24.m3u8
+#EXTINF:-1, Rtv Music
+https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
+
+#EXTINF:-1, Atn Music
+https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+#EXTINF:-1, Voice tv
+https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+#EXTINF:-1, Zee Bangla Cinema
+http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
+#EXTINF:-1, Enter 10 Bangla
+http://streamitv.multitvsolution.in/idvo/enter10bangla_360p/index.m3u8
 
