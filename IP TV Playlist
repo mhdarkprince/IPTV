@@ -6,4 +6,4 @@ http://plusbox.tv:8080/BTVWorld/index.m3u8?token=7223b13bd4a0efe75d42ba4ce203846
 #EXTINF:-1, ATN Bangla
 http://plusbox.tv:8080/ATNBangla/index.m3u8?token=9df8c896a31ae3414a45817c66486f074e7b1e26-daae10f845630d9b20081e399f6af7b5-1608881561-1608870761
 #EXTINF:-1, ATN News
-http://plusbox.tv:8080/ATNNews/embed.html?token=f03421e6b00f112349a7482f964682a595a01e18-6d908630ccff26e1bbb19739b8ab5077-1608884452-1608873652
+http://plusbox.tv:8080/ATNNews/index.m3u8?token=b947c910aa3f085aff54d66897a82e49f4ee05d1-26f6c8dccd72b5e55d5cfadf56b72d48-1608884589-1608873789
