@@ -158,4 +158,13 @@ https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1, Enter 10 Bangla
 http://streamitv.multitvsolution.in/idvo/enter10bangla_360p/index.m3u8
-
+#EXTINF:-1 , Sony TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
+#EXTINF:-1 , Shemaroo
+https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
+#EXTINF:-1 , Big Magic HD
+https://z5amshls.akamaized.net/bigmagic/tracks-v2a1/index.m3u8
+#EXTINF:-1 , And picture
+http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
+#EXTINF:-1Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
