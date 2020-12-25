@@ -3,7 +3,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.m3u8
 #EXTINF:-1,Nagorik TV HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.m3u8
 #EXTINF:-1,Channel I HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.m3u8
 #EXTINF:-1,Deepto Tv HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.m3u8
 #EXTINF:-1,Gazi TV HD
@@ -42,12 +42,16 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.m3u8
 #EXTINF:-1,Travelxp HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.m3u8
+#EXTINF:-1,Jalsha Movies HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.m3u8
 #EXTINF:-1,Sony Entertainment Television 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.m3u8
 #EXTINF:-1,Star Plus 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.m3u8
 #EXTINF:-1,Zee Cinema
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.m3u8
+#EXTINF:-1,Zee TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.m3u8
 #EXTINF:-1,Colors 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.m3u8
 #EXTINF:-1, Sony Max HD
@@ -64,6 +68,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.m3u8
 #EXTINF:-1,MN+ HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.m3u8
+#EXTINF:-1,& Flix
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.m3u8
 #EXTINF:-1,AXN
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.m3u8
 #EXTINF:-1,STAR TV SD
@@ -72,6 +78,10 @@ http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
 #EXTINF:-1,HBO
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.m3u8
+#EXTINF:-1,TLC
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.m3u8
+#EXTINF:-1,Life Style
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.m3u8
 #EXTINF:-1,Sony TEN 1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.m3u8
 #EXTINF:-1,Sports Channel
