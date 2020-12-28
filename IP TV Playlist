@@ -16,25 +16,25 @@ https://rhridoy136.shortcm.li/satv.m3u8
 #EXTINF:-1, Ntv 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.m3u8
 #EXTINF:-1,ATN Bangla
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/10.m3u8
+https://rhridoy136.shortcm.li/atnbangla.m3u8
 #EXTINF:-1,Rtv HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/11.m3u8
+https://rhridoy136.shortcm.li/rtv.m3u8
 #EXTINF:-1,Independent Tv
 https://rhridoy136.shortcm.li/independenttv.m3u8
 #EXTINF:-1,Jamuna TV
 https://rhridoy136.shortcm.li/jamunatv.m3u8
 #EXTINF:-1,Somoy TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.m3u8
+https://rhridoy136.shortcm.li/shomoytv.m3u8
 #EXTINF:-1,Ekushey TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.m3u8
-#EXTINF:-1,Channal 24
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/16.m3u8
-#EXTINF:-1,Bangla Vission HD
+#EXTINF:-1, Channal 24
+https://rhridoy136.shortcm.li/channel24.m3u8
+#EXTINF:-1, Bangla Vission HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/17.m3u8
-#EXTINF:-1,My Tv HD
+#EXTINF:-1, My Tv HD
 https://rhridoy136.shortcm.li/mytv.m3u8
-#EXTINF:-1,Btv
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.m3u8
+#EXTINF:-1, BTV World
+https://rhridoy136.shortcm.li/btvworld.m3u8
 #EXTINF:-1,Sony Aath
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.m3u8
 #EXTINF:-1,Zee Bangla
@@ -154,8 +154,7 @@ https://rhridoy136.shortcm.li/mohonatv.m3u8
 #EXTINF:-1, News 24
 https://rhridoy136.shortcm.li/news24.m3u8
 #EXTINF:-1, Rtv Music
-https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
-
+https://rhridoy136.shortcm.li/rtvmusic.m3u8
 #EXTINF:-1, Atn Music
 https://rhridoy136.shortcm.li/atnmusic.m3u8
 #EXTINF:-1, Voice tv
@@ -188,5 +187,15 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/
 https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTINF:-1, Ruposhi Bangla
 http://45.127.244.7:8080/hls/channel14.m3u8
-#EXTINF:-1, Gaan Bangla
+EXTINF:-1, Gaan Bangla
 http://45.127.244.7:8080/hls/channel16.m3u8
+#EXTINF:-1, Sangsad TV
+https://rhridoy136.shortcm.li/sangsadtv.m3u8
+#EXTINF:-1, ATN Islamic
+https://rhridoy136.shortcm.li/atnislamic.m3u8
+#EXTINF:-1, Makkah Live
+https://rhridoy136.shortcm.li/makkahlive.m3u8
+#EXTINF:-1, Iqra Bangla TV
+https://rhridoy136.shortcm.li/iqrabangla.m3u8
+#EXTINF:-1, Bangla Tv
+https://rhridoy136.shortcm.li/banglatv.m3u8
