@@ -1,205 +1,311 @@
 #EXTM3U
-#Bangla Channel#
+
+#Bangla News Channel#
+
+#EXTINF:-1,Satv HD
+https://rhridoy136.shortcm.li/satv.m3u8
+
+#EXTINF:-1,Independent Tv
+https://rhridoy136.shortcm.li/independenttv.m3u8
+
+#EXTINF:-1,Jamuna TV
+https://rhridoy136.shortcm.li/jamunatv.m3u8
+
+#EXTINF:-1,Somoy TV
+https://rhridoy136.shortcm.li/shomoytv.m3u8
+
+#EXTINF:-1, Channel 24
+https://rhridoy136.shortcm.li/channel24.m3u8
+
+#EXTINF:-1, ATN News
+https://rhridoy136.shortcm.li/atnnews.m3u8
+
+#EXTINF:-1, News 24
+https://rhridoy136.shortcm.li/news24.m3u8
+
+#EXTINF:-1, DBC News
+https://rhridoy136.shortcm.li/dbcnews.m3u8
+
+#EXTINF:-1, Voice tv
+https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+
+
 
 #EXTINF:-1,Masranga HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.m3u8
+
 #EXTINF:-1,Nagorik TV HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.m3u8
+
 #EXTINF:-1,Channel I HD
 https://rhridoy136.shortcm.li/channeli.m3u8
+
 #EXTINF:-1,Deepto Tv HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.m3u8
+
 #EXTINF:-1,GTV HD
 http://45.127.244.7:8080/hls/channel4.m3u8
-#EXTINF:-1,Channal 9 HD
+
+#EXTINF:-1,Channel 9 HD
 https://rhridoy136.shortcm.li/channel9.m3u8
-#EXTINF:-1,Satv HD
-https://rhridoy136.shortcm.li/satv.m3u8
+
 #EXTINF:-1, Ntv 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.m3u8
+
 #EXTINF:-1,ATN Bangla
 https://rhridoy136.shortcm.li/atnbangla.m3u8
+
 #EXTINF:-1,Rtv HD
 https://rhridoy136.shortcm.li/rtv.m3u8
-#EXTINF:-1,Independent Tv
-https://rhridoy136.shortcm.li/independenttv.m3u8
-#EXTINF:-1,Jamuna TV
-https://rhridoy136.shortcm.li/jamunatv.m3u8
-#EXTINF:-1,Somoy TV
-https://rhridoy136.shortcm.li/shomoytv.m3u8
+
+
+
+
 #EXTINF:-1,Ekushey TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.m3u8
-#EXTINF:-1, Channal 24
-https://rhridoy136.shortcm.li/channel24.m3u8
+
+
 #EXTINF:-1, Bangla Vission HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/17.m3u8
+
 #EXTINF:-1, My Tv HD
 https://rhridoy136.shortcm.li/mytv.m3u8
+
 #EXTINF:-1, BTV World
 https://rhridoy136.shortcm.li/btvworld.m3u8
+
 #EXTINF:-1,Sony Aath
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.m3u8
+
 #EXTINF:-1,Zee Bangla
 http://45.127.244.7:8080/hls/channel10.m3u8
+
 #EXTINF:-1, Star Jalsha
 http://45.127.244.7:8080/hls/channel12.m3u8
+
 #EXTINF:-1,Travelxp HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.m3u8
+
 #EXTINF:-1,Jalsha Movies HD
 http://45.127.244.7:8080/hls/channel13.m3u8
+
 #EXTINF:-1,Sony Entertainment Television 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.m3u8
+
 #EXTINF:-1,Star Plus 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.m3u8
+
 #EXTINF:-1,Zee Cinema
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.m3u8
+
 #EXTINF:-1,Zee TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.m3u8
+
 #EXTINF:-1,Colors 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.m3u8
+
 #EXTINF:-1, Sony Max
 http://45.127.244.7:8080/hls/channel6.m3u8
+
 #EXTINF:-1,Hum Masala
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.m3u8
+
 #EXTINF:-1,Hum Sitaray
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.m3u8
+
 #EXTINF:-1,Bflix Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.m3u8
+
 #EXTINF:-1,B4U Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.m3u8
+
 #EXTINF:-1,Enter10 Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.m3u8
+
 #EXTINF:-1,MN+ HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.m3u8
+
 #EXTINF:-1,& Flix
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.m3u8
+
 #EXTINF:-1,AXN
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.m3u8
+
 #EXTINF:-1,STAR TV SD
 http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
+
 #EXTINF:-1,Star Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
+
 #EXTINF:-1,HBO
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.m3u8
+
 #EXTINF:-1,TLC
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.m3u8
+
 #EXTINF:-1, T Sports
 http://45.127.244.7:8080/hls/channel2.m3u8
+
 #EXTINF:-1, TEN Cricket
 http://45.127.244.7:8080/hls/channel5.m3u8
+
 #EXTINF:-1, Sony SIX
 http://45.127.244.7:8080/hls/channel3.m3u8
+
 #EXTINF:-1,Sony TEN 1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.m3u8
+
 #EXTINF:-1,Sports Channel
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.m3u8
+
 #EXTINF:-1,SONY TEN 2 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.m3u8
+
 #EXTINF:-1,Star Sports Select HD 1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.m3u8
+
 #EXTINF:-1,Star Sports Select HD 2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.m3u8
+
 #EXTINF:-1,BBC News
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.m3u8
+
 #EXTINF:-1,Al Jazeera
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/59.m3u8
+
 #EXTINF:-1,Discovery HD Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.m3u8
+
 #EXTINF:-1,Discovery Sd Bangla
 http://otv.ftpbd.net/streams/121/index.m3u8
+
 #EXTINF:-1,History
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.m3u8
+
 #EXTINF:-1,BBC Lifestyle
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.m3u8
+
 #EXTINF:-1,Duronto TV 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.m3u8
+
 #EXTINF:-1,Disney Hindi 
 http://otv.ftpbd.net/streams/122/index.m3u8
+
 #EXTINF:-1,Disney XD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.m3u8
+
 #EXTINF:-1,Sony Yay
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.m3u8
+
 #EXTINF:-1,CBeebies BBC
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.m3u8
+
 #EXTINF:-1,Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
+
 #EXTINF:-1,Sangeet Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.m3u8
+
 #EXTINF:-1,Mtv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.m3u8
+
 #EXTINF:-1,9X ZALWAA
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.m3u8
+
 #EXTINF:-1,Masti
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.m3u8
+
 #EXTINF:-1,B4U Music
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.m3u8
+
 #EXTINF:-1,Zing
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.m3u8
+
 #EXTINF:-1,Music India
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/84.m3u8
+
 #EXTINF:-1,DW News
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/101.m3u8
-#EXTINF:-1, ATN News
-https://rhridoy136.shortcm.li/atnnews.m3u8
+
+
 #EXTINF:-1, Boishakhi
 https://rhridoy136.shortcm.li/boishakhitv.m3u8
-#EXTINF:-1, CHANNEL 24
-https://rhridoy136.shortcm.li/channel24.m3u8
+
+
 #EXTINF:-1, Channel 9
 https://rhridoy136.shortcm.li/channel9.m3u8
-#EXTINF:-1, DBC News
-https://rhridoy136.shortcm.li/dbcnews.m3u8
+
+
 #EXTINF:-1, Desh TV
 https://rhridoy136.shortcm.li/deshtv.m3u8
+
 #EXTINF:-1, MOHONA TV
 https://rhridoy136.shortcm.li/mohonatv.m3u8
-#EXTINF:-1, News 24
-https://rhridoy136.shortcm.li/news24.m3u8
+
+
 #EXTINF:-1, Rtv Music
 https://rhridoy136.shortcm.li/rtvmusic.m3u8
+
 #EXTINF:-1, Atn Music
 https://rhridoy136.shortcm.li/atnmusic.m3u8
-#EXTINF:-1, Voice tv
-https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+
+
 #EXTINF:-1, Zee Bangla Cinema
 http://45.127.244.7:8080/hls/channel11.m3u8
+
 #EXTINF:-1, Enter 10 Bangla
 http://streamitv.multitvsolution.in/idvo/enter10bangla_360p/index.m3u8
+
 #EXTINF:-1 , Sony TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
+
 #EXTINF:-1 , Shemaroo
 https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
+
 #EXTINF:-1 , Big Magic HD
 https://z5amshls.akamaized.net/bigmagic/tracks-v2a1/index.m3u8
+
 #EXTINF:-1 , And picture
 http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
+
 #EXTINF:-1, Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+
 #EXTINF:-1,Jagoroni TV
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagoronitv.stream/playlist.m3u8
+
 #EXTINF:-1, Joy Jatra
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/joyjatratv.stream/playlist.m3u8
+
 #EXTINF:-1, KTV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+
 #EXTINF:-1, ABP Ananda [IN]
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+
 #EXTINF:-1, Calcutta News [IN]
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/cnews.m3u8
+
 #EXTINF:-1, Bijoy TV
 https://rhridoy136.shortcm.li/bijoytv.m3u8
+
 #EXTINF:-1, Ruposhi Bangla
 http://45.127.244.7:8080/hls/channel14.m3u8
+
 #EXTINF:-1, Gaan Bangla
 http://45.127.244.7:8080/hls/channel16.m3u8
+
 #EXTINF:-1, Sangsad TV
 https://rhridoy136.shortcm.li/sangsadtv.m3u8
+
 #EXTINF:-1, ATN Islamic
 https://rhridoy136.shortcm.li/atnislamic.m3u8
+
 #EXTINF:-1, Makkah Live
 https://rhridoy136.shortcm.li/makkahlive.m3u8
+
 #EXTINF:-1, Iqra Bangla TV
 https://rhridoy136.shortcm.li/iqrabangla.m3u8
+
 #EXTINF:-1, Bangla Tv
 https://rhridoy136.shortcm.li/banglatv.m3u8
-
-
