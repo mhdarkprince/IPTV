@@ -30,6 +30,8 @@ https://rhridoy136.shortcm.li/dbcnews.m3u8
 https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 
 
+#All Bangla Channel#
+
 
 #EXTINF:-1,Masranga HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.m3u8
@@ -58,12 +60,8 @@ https://rhridoy136.shortcm.li/atnbangla.m3u8
 #EXTINF:-1,Rtv HD
 https://rhridoy136.shortcm.li/rtv.m3u8
 
-
-
-
 #EXTINF:-1,Ekushey TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.m3u8
-
 
 #EXTINF:-1, Bangla Vission HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/17.m3u8
@@ -73,6 +71,12 @@ https://rhridoy136.shortcm.li/mytv.m3u8
 
 #EXTINF:-1, BTV World
 https://rhridoy136.shortcm.li/btvworld.m3u8
+
+#EXTINF:-1,Duronto TV 
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.m3u8
+
+
+
 
 #EXTINF:-1,Sony Aath
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.m3u8
@@ -176,7 +180,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/59.m3u8
 #EXTINF:-1,Discovery HD Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.m3u8
 
-#EXTINF:-1,Discovery Sd Bangla
+#EXTINF:-1,Discovery SD Bangla
 http://otv.ftpbd.net/streams/121/index.m3u8
 
 #EXTINF:-1,History
@@ -185,8 +189,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.m3u8
 #EXTINF:-1,BBC Lifestyle
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.m3u8
 
-#EXTINF:-1,Duronto TV 
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.m3u8
 
 #EXTINF:-1,Disney Hindi 
 http://otv.ftpbd.net/streams/122/index.m3u8
