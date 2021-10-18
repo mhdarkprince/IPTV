@@ -26,23 +26,9 @@ https://rhridoy136.shortcm.li/news24.m3u8
 #EXTINF:-1, DBC News
 https://rhridoy136.shortcm.li/dbcnews.m3u8
 
-#EXTINF:-1, Voice tv
-https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
-
 #All Bangla Channel#
-
-
-#EXTINF:-1,Peach Tv Bangla
-https://rhridoy136.shortcm.li/peacetvbangla.m3u8
-
 #EXTINF:-1, ATN Islamic
 https://rhridoy136.shortcm.li/atnislamic.m3u8
-
-#EXTINF:-1, Makkah Live
-https://rhridoy136.shortcm.li/makkahlive.m3u8
-
-#EXTINF:-1, Iqra Bangla TV
-https://rhridoy136.shortcm.li/iqrabangla.m3u8
 
 #EXTINF:-1, Sangsad TV
 https://rhridoy136.shortcm.li/sangsadtv.m3u8
@@ -50,38 +36,15 @@ https://rhridoy136.shortcm.li/sangsadtv.m3u8
 #EXTINF:-1, BTV World
 https://rhridoy136.shortcm.li/btvworld.m3u8
 
-#EXTINF:-1,Masranga HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.m3u8
-
-#EXTINF:-1,Nagorik TV HD
-http://163.172.29.246:8081/globalbd/nagoriktv/chunks.m3u8
-
 #EXTINF:-1,Channel I HD
 https://rhridoy136.shortcm.li/channeli.m3u8
-
-#EXTINF:-1,Deepto Tv HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.m3u8
-
-#EXTINF:-1,GTV HD
-http://45.127.244.7:8080/hls/channel4.m3u8
 
 #EXTINF:-1,Channel 9 HD
 https://rhridoy136.shortcm.li/channel9.m3u8
 
-#EXTINF:-1, Ntv 
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.m3u8
-
-#EXTINF:-1,ATN Bangla
-https://rhridoy136.shortcm.li/atnbangla.m3u8
 
 #EXTINF:-1,Rtv HD
 https://rhridoy136.shortcm.li/rtv.m3u8
-
-#EXTINF:-1,Ekushey TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.m3u8
-
-#EXTINF:-1, Bangla Vission HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/17.m3u8
 
 #EXTINF:-1, My Tv HD
 https://rhridoy136.shortcm.li/mytv.m3u8
@@ -89,17 +52,9 @@ https://rhridoy136.shortcm.li/mytv.m3u8
 #EXTINF:-1, Boishakhi
 https://rhridoy136.shortcm.li/boishakhitv.m3u8
 
-#EXTINF:-1, Desh TV
-https://rhridoy136.shortcm.li/deshtv.m3u8
-
 #EXTINF:-1, MOHONA TV
 https://rhridoy136.shortcm.li/mohonatv.m3u8
 
-#EXTINF:-1,Jagoroni TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagoronitv.stream/playlist.m3u8
-
-#EXTINF:-1, Joy Jatra
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/joyjatratv.stream/playlist.m3u8
 
 #EXTINF:-1, KTV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
@@ -107,8 +62,6 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1, Bijoy TV
 https://rhridoy136.shortcm.li/bijoytv.m3u8
 
-#EXTINF:-1, Ruposhi Bangla
-http://45.127.244.7:8080/hls/channel14.m3u8
 
 #EXTINF:-1, Bangla Tv
 https://rhridoy136.shortcm.li/banglatv.m3u8
@@ -332,10 +285,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/101.m3u8
 
 
 #END#
-
-
-
-
 
 
 
