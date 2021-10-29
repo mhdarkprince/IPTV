@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,Ten 1
+#EXTINF:-1,T-Sports
 http://172.16.172.112/live/feed1001/index.m3u8
 #EXTINF:-1,Ten 2
 http://172.16.172.112/live/feed1002/index.m3u8
@@ -164,8 +164,10 @@ http://103.205.133.48/hls/etvbangla.m3u8
 #EXTINF:-1,Sony Aath
 http://163.172.29.246:8081/globalbd/sonyaath/chunks.m3u8
 
+
+
 #EXTINF:-1,Zee Bangla
-http://45.127.244.7:8080/hls/channel10.m3u8
+https://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/hdntl=exp=1635609899~acl=%2f*~data=hdntl~hmac=84af813617ecd56f95feb2e5784bacf8962d0e5f9b98b6364da0c2ed24c4767b/2021/10/29/16/05/33-06280.ts
 
 #EXTINF:-1, Zee Bangla Cinema
 http://45.127.244.7:8080/hls/channel11.m3u8
