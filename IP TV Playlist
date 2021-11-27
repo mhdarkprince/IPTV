@@ -1,11 +1,8 @@
-
-
-
 #EXTM3U
 
 
 #EXTINF:-1,BD IPTV 
-https://tv.bdiptv.stream:2096/Sp0rts/tsports/chunks.m3u8
+https://tv.bdiptv.stream:2096/Sp0rts/tsports/chunks.m3u8?
 
 
 #EXTINF:-1,T-Sports
