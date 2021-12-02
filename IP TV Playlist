@@ -1,8 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Zee Bangla
+https://z5ams.akamaized.net/zeebanglahd/index.m3u8?hdnts=st=1638461783~exp=1638464783~acl=/*~hmac=2564523735be47557f762897b285021f7ed26fbb5cc9c7144908a4feaf6f18cb
 
-#EXTINF:-1,BD IPTV 
-https://tv.bdiptv.stream:2096/Sp0rts/tsports/chunks.m3u8?<get-tokken/>
 
 #EXTINF:-1,T-Sports
 http://172.16.172.112/live/feed1001/index.m3u8
@@ -13,8 +13,7 @@ http://172.16.172.112/live/feed1003/index.m3u8
 #EXTINF:-1,Discovery HD
 http://172.16.172.112/live/feed1004/index.m3u8
 
-#EXTINF:-1,Zee Bangla
-http://65.2.4.240/jioo.php?c=Zee_Bangla&q=1200&e=junk.m3u8
+
 #EXTINF:-1,Jamuna TV
 https://rhridoy136.shortcm.li/jamunatv.m3u8
 
